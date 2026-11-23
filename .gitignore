@@ -1,0 +1,10 @@
+# Abaqus scratch and results files (large); data/*.csv and results/ stay in the repo
+work/
+*.odb
+*.lck
+# Python
+__pycache__/
+*.pyc
+.venv/
+# smoke-test output (toy data, never report)
+tests/_out/

@@ -1,0 +1,5 @@
+numpy>=1.24
+matplotlib>=3.7
+# PyTorch: install the CUDA build with the command from https://pytorch.org/get-started/locally/
+# (Windows, pip, CUDA). A plain "pip install torch" may give a CPU-only build.
+torch>=2.2
