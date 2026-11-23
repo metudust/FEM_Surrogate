@@ -132,9 +132,3 @@ is only valid inside the sampled ranges. The Learning Edition caps mesh refineme
 
 The Learning Edition is for non-commercial use. If you use an employer's Abaqus license for this
 public project, get permission first, and keep customer models and data out of the repository.
-
-## Next: Stage 2
-
-Additive-manufacturing distortion of a cantilever built on supports and cut free, with
-layer-by-layer element activation (inherent-strain method), using the same pipeline:
-DOE -> Abaqus -> dataset -> GPU surrogate -> benchmark.
